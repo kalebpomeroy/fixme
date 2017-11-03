@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/JohnPostlethwait/fixme.git"
+    "url": "git://github.com/kalebpomeroy/fixme.git"
   },
   "main": "./index.js",
   "scripts": {
